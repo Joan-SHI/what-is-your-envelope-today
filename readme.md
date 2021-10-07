@@ -2,7 +2,7 @@
 Figure it out how Azure static web Apps socializes with GitHub Action and VS code.
 https://joan-shi.github.io/what-is-your-envelope-today/
 
-# :point_down: Not my writing :point_down:
+:point_down: Not my writing :point_down:
 
 # Vanilla JavaScript App
 
