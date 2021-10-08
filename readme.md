@@ -1,6 +1,10 @@
 # :envelope: Social activities
 
-Figure it out how Azure static web Apps socializes with GitHub Action and VS code.
+Figure it out how Azure static web Apps socializes with GitHub Action and VS code. And build my JavaScript app from there. 
+
+1. Follow this documentation to set up: https://docs.microsoft.com/en-gb/azure/static-web-apps/getting-started?tabs=vanilla-javascript 
+
+2. Add an API to Azure Static Web Apps with Azure Functions.
 
 #
 :point_down: Not my writing:point_down:
