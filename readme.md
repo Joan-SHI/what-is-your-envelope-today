@@ -4,7 +4,9 @@ Figure it out how Azure static web Apps socializes with GitHub Action and VS cod
 
 1. Follow this documentation to set up: https://docs.microsoft.com/en-gb/azure/static-web-apps/getting-started?tabs=vanilla-javascript 
 
-2. Add an API to Azure Static Web Apps with Azure Functions.
+2. Add an API to Azure Static Web Apps with Azure Functions: https://docs.microsoft.com/en-gb/azure/static-web-apps/add-api?tabs=vanilla-javascript
+
+3. Add handwriting Google fonts: https://fonts.google.com/?category=Handwriting
 
 #
 :point_down: Not my writing:point_down:
