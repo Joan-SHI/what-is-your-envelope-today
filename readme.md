@@ -8,6 +8,11 @@ Figure it out how Azure static web Apps socializes with GitHub Action and VS cod
 
 3. Add handwriting Google fonts: https://fonts.google.com/?category=Handwriting
 
+4. Add favicon: https://fontawesome.com/v5.15/icons/envelope?style=regular 
+   https://fontawesome.com/license
+
+5 Add background image: https://unsplash.com/photos/4Zaq5xY5M_c
+
 #
 :point_down: Not my writing:point_down:
 # Vanilla JavaScript App
