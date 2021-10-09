@@ -11,7 +11,10 @@ Figure it out how Azure static web Apps socializes with GitHub Action and VS cod
 4. Add favicon: https://fontawesome.com/v5.15/icons/envelope?style=regular 
    https://fontawesome.com/license
 
-5 Add background image: https://unsplash.com/photos/4Zaq5xY5M_c
+5. Add background image: https://unsplash.com/photos/4Zaq5xY5M_c
+
+6. Development: 
+<img src="/src/images/development.png" alt="what is your 'envelope' today" width="750" />
 
 #
 :point_down: Not my writing:point_down:
