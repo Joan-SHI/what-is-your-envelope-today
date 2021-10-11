@@ -16,6 +16,8 @@ Figure it out how Azure static web Apps socializes with GitHub Action and VS cod
 6. Development: 
 <img src="/src/images/development.png" alt="what is your 'envelope' today" width="750" />
 
+6. Add MetService Widget: https://about.metservice.com/our-company/weather-on-your-website/weather-widget/
+
 #
 :point_down: Not my writing:point_down:
 # Vanilla JavaScript App

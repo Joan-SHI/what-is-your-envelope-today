@@ -16,13 +16,14 @@ min-height: 100%;
 
 main {
   margin: auto;
-  width: 50%;
+  width: 96%;
   padding: 20px;
 }
 
 main > h1 {
   text-align: center;
-  font-size: 1.9em;
-  font-family: 'Patrick Hand', cursive;
+  font-size: 1.5em;
+  /* font-family: 'Patrick Hand', cursive; */
+  font-family: 'Shadows Into Light', cursive;
 }
 
