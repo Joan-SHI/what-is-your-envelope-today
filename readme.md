@@ -24,6 +24,9 @@ https://unsplash.com/photos/4Zaq5xY5M_c
 ### Add MetService Widget: 
 https://about.metservice.com/our-company/weather-on-your-website/weather-widget/
 
+### Add TypeScript:
+https://docs.microsoft.com/en-gb/azure/static-web-apps/front-end-frameworks
+
 #
 :point_down: Not my writing:point_down:
 # Vanilla JavaScript App
