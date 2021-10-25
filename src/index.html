@@ -18,6 +18,21 @@
     <p>Let me check the weather first:</p>
     <iframe id="widget-iframe" width="280px" height="205px"
     src="https://services.metservice.com/weather-widget/widget?params=white|small|landscape|days-3|classic&loc=wellington&type=urban" allowtransparency="true" style="border:none"></iframe>
+    <!-- ... existing HTML ... -->
+<p>
+  <div id="like_button_container_1" ></div>
+</p>
+<p>
+  <div id="like_button_container_2" ></div>
+</p>
+<p>
+  <div id="like_button_container_3" ></div>
+</p>
+<p>
+  <div id="like_button_container_4" ></div>
+</p>
+<!-- ... existing HTML ... -->
+    
     <p>Loading content from the API: <b id="name">...</b></p>
   </main>
 
@@ -28,7 +43,19 @@
   }()
   )
 </script>
+<!-- ... other HTML ... -->
 
+  <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+  <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+
+  <!-- Load our React component. -->
+  <script src="like_button_1.js"></script>
+  <script src="like_button_2.js"></script>
+  <script src="like_button_3.js"></script>
+  <script src="like_button_4.js"></script>
+  
 </body>
 
 </html>

@@ -27,6 +27,11 @@ https://about.metservice.com/our-company/weather-on-your-website/weather-widget/
 ### Add TypeScript:
 https://docs.microsoft.com/en-gb/azure/static-web-apps/front-end-frameworks
 
+### Add React components to this site:
+https://reactjs.org/docs/add-react-to-a-website.html
+### To do:
+Minify JavaScript code https://gist.github.com/gaearon/42a2ffa41b8319948f9be4076286e1f3
+
 #
 :point_down: Not my writing:point_down:
 # Vanilla JavaScript App
